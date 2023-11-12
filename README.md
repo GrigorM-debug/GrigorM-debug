@@ -21,16 +21,16 @@ a healthy lifestyle.
 
 ## Languages and Tools
 
-<img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
-<img align="left" alt=".NET" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
-<img align="left" alt="MS SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-<img align="left" alt="Entity Framework Core" width="30px" src="https://user-images.githubusercontent.com/4169187/30237902-646aabf2-953c-11e7-8a41-8170b4b8bd6c.png" />
-<img align="left" alt="Visual Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
-- ![Arduino](https://img.icons8.com/color/48/000000/arduino.png) Arduino
+<img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+<img align="left" alt=".NET" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+<img align="left" alt="MS SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png" />
+<img align="left" alt="Entity Framework Core" width="40px" src="https://user-images.githubusercontent.com/4169187/30237902-646aabf2-953c-11e7-8a41-8170b4b8bd6c.png" />
+<img align="left" alt="Visual Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 
 ## GitHub Stats
 
