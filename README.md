@@ -33,7 +33,7 @@ a healthy lifestyle.
 <img align="left" alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 
 
-## GitHub Stats
+# 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrigorM-debug&show_icons=true&theme=gruvbox)
 
