@@ -22,7 +22,7 @@ a healthy lifestyle.
 ## Languages and Tools
 
 <img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
-<img align="left" alt=".NET" width="30px" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />" />
+<img align="left" alt=".NET" width="30px" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
 <img align="left" alt="MS SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img align="left" alt="Entity Framework Core" width="30px" src="https://user-images.githubusercontent.com/4169187/30237902-646aabf2-953c-11e7-8a41-8170b4b8bd6c.png" />
 <img align="left" alt="Visual Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
