@@ -17,23 +17,23 @@ a healthy lifestyle.
 ## Connect with Me
 
 <a href="mailto:grigormarinov761@gmail.com">
-  <img src="https://img.icons8.com/color/40/000000/email.png" alt="Email Icon" align="left">
+  <img src="https://img.icons8.com/color/40/000000/email.png" alt="Email Icon" align="left" width="40px">
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100007039098860">
-  <img src="https://img.icons8.com/color/40/000000/facebook.png" alt="Facebook Icon" align="left">
+  <img src="https://img.icons8.com/color/40/000000/facebook.png" alt="Facebook Icon" align="left" width="40px">
 </a>
 
 <a href="https://www.instagram.com/">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Instagram.svg" alt="Instagram Icon" align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Instagram.svg" alt="Instagram Icon" align="left" width="40px">
 </a>
 
 <a href="https://www.linkedin.com/in/%D0%B3%D1%80%D0%B8%D0%B3%D0%BE%D1%80-%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2-3411391a9/">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" alt="LinkedIn Icon" align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" alt="LinkedIn Icon" align="left" width="40px">
 </a>
 
 <a href="https://twitter.com/home?lang=bg">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg" alt="Twitter Icon" align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg" alt="Twitter Icon" align="left" width="40px">
 </a>
 
 ## 🧰 Languages and Tools
