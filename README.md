@@ -6,7 +6,7 @@
 #
 
 <!-- Animated Image -->
-<img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="1000" height="500">
+<img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="1000" height="300">
 
 ## About Me
 
@@ -17,10 +17,11 @@ a healthy lifestyle.
 ## Connect with Me
 
 [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:grigormarinov761@gmail.com)
-[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/profile.php?id=100007039098860)
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/)
-<img align="left" alt="Twitter" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg" />
-<img align="left" alt="Linkedln" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" />
+[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)]([your_facebook_profile_link](https://www.facebook.com/profile.php?id=100007039098860))
+[![Instagram](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Instagram.svg)]([your_instagram_profile_link](https://www.instagram.com/grigor_marinov11/))
+[![Discord](https://raw.githubusercontent.comtw/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg)](your_discord_profile_link)
+[![LinkedIn](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg)]([your_linkedin_profile_link](https://www.linkedin.com/in/%D0%B3%D1%80%D0%B8%D0%B3%D0%BE%D1%80-%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2-3411391a9/))
+[![Twitter](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg)]([your_twitter_profile_link](https://twitter.com/GrigorMarinov3))
 
 ## 🧰 Languages and Tools
 
