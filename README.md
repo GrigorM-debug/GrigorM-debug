@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=0EC6F0&center=true&vCenter=true&lines=Hi+there!;It's+Grigor!;Welcome+to+My+GitHub!;I'm+Passionate+About+Programming.">
 </p>
 
+#
+
 <!-- Animated Image -->
 <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="1000" height="500">
 
@@ -17,7 +19,8 @@ a healthy lifestyle.
 [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:grigormarinov761@gmail.com)
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/profile.php?id=100007039098860)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/)
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)]([your_linkedin_profile_link](https://www.linkedin.com/in/%D0%B3%D1%80%D0%B8%D0%B3%D0%BE%D1%80-%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2-3411391a9/)https://www.linkedin.com/in/%D0%B3%D1%80%D0%B8%D0%B3%D0%BE%D1%80-%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2-3411391a9/)
+<img align="left" alt="Twitter" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg" />
+<img align="left" alt="Linkedln" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" />
 
 ## 🧰 Languages and Tools
 
@@ -26,14 +29,16 @@ a healthy lifestyle.
 <img align="left" alt="MS SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png" />
 <img align="left" alt="Entity Framework Core" width="40px" src="https://user-images.githubusercontent.com/4169187/30237902-646aabf2-953c-11e7-8a41-8170b4b8bd6c.png" />
 <img align="left" alt="Visual Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+<img align="left" alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 
-# 📊 Stats
+## 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrigorM-debug&show_icons=true&theme=gruvbox)
 
