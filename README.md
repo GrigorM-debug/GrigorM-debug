@@ -6,7 +6,7 @@
 #
 
 <!-- Animated Image -->
-<img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="1000" height="400">
+<img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="800" height="500">
 
 ## About Me
 
