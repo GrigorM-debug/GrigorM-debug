@@ -15,11 +15,11 @@ a healthy lifestyle.
 
 ## Connect with Me
 <a href="mailto:grigormarinov761@gmail.com">
-  <img src="https://img.icons8.com/color/40/000000/email.png" alt="Email Icon" align="left" width="40px">
+  <img src="https://img.icons8.com/color/40/000000/email.png" alt="Email Icon" align="left" width="50px">
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100007039098860">
-  <img src="https://img.icons8.com/color/40/000000/facebook.png" alt="Facebook Icon" align="left" width="40px">
+  <img src="https://img.icons8.com/color/40/000000/facebook.png" alt="Facebook Icon" align="left" width="50px">
 </a>
 
 <a href="https://www.instagram.com/">
