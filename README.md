@@ -19,7 +19,7 @@ a healthy lifestyle.
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100007039098860">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook Icon" align="left" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook Icon" align="left" width="40px">
 </a>
 
 <a href="https://www.instagram.com/">
