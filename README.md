@@ -19,7 +19,7 @@ a healthy lifestyle.
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/)
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)]([your_linkedin_profile_link](https://www.linkedin.com/in/%D0%B3%D1%80%D0%B8%D0%B3%D0%BE%D1%80-%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2-3411391a9/)https://www.linkedin.com/in/%D0%B3%D1%80%D0%B8%D0%B3%D0%BE%D1%80-%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2-3411391a9/)
 
-## Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
 <img align="left" alt=".NET" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
@@ -35,5 +35,5 @@ a healthy lifestyle.
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GrigorM-debug&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrigorM-debug&show_icons=true&theme=gruvbox)
 
