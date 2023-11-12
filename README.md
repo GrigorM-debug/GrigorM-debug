@@ -9,13 +9,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="800" height="500">
 
 ## About Me
-
 I am currently studying Software Engineering at SoftUni with a passion to become a Back-end Developer.
 Love to writing code and learning new features. Outside of the tech world, I'm involved in bodybuilding and 
 a healthy lifestyle.
 
 ## Connect with Me
-
 <a href="mailto:grigormarinov761@gmail.com">
   <img src="https://img.icons8.com/color/40/000000/email.png" alt="Email Icon" align="left" width="40px">
 </a>
@@ -38,7 +36,6 @@ a healthy lifestyle.
 
 
 ## 🧰 Languages and Tools
-
 <img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
 <img align="left" alt=".NET" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
 <img align="left" alt="MS SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png" />
@@ -55,6 +52,5 @@ a healthy lifestyle.
 
 
 ## 📊 Stats
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrigorM-debug&show_icons=true&theme=gruvbox)
 
