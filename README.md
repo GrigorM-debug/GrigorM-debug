@@ -13,16 +13,14 @@
 ✌️Enjoy to do programming and sharing knowledge.
 <br><br>
 ❤️ Love to writing code and learning new features. 
+<br><br>
+💬 Ask me about anything on grigormarinov761@gmail.com
 </p>
 </div>
 
 <br><br>
 <br><br>
 ## Connect with Me
-<a href="mailto:grigormarinov761@gmail.com">
-  <img src="https://img.icons8.com/color/40/000000/email.png" alt="Email Icon" align="left" width="40px">
-</a>
-
 <a href="https://www.facebook.com/profile.php?id=100007039098860">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook Icon" align="left" width="40px">
 </a>
