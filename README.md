@@ -8,8 +8,11 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/alsiam/alsiam/main/assets/programmer.gif" alt="Your Image" width="300" height="300" align="right">
   <p align="left">
+<br><br>
 📖 I am currently studying Software Engineering at SoftUni with a passion to become a Back-end Developer.
+<br><br>
 ❤️ Love to writing code and learning new features. 
+<br><br> 
 💪 Outside of the tech world, I'm involved in bodybuilding and 
 a healthy lifestyle.</p>
 </div>
