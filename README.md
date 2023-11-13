@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=0EC6F0&center=true&vCenter=true&lines=Hi+there!+👋;It's+Grigor!;Welcome+to+My+GitHub!;I'm+Passionate+About+Programming." style="width:80%; max-width:400px;">
 </p>
+
 #
 
 <!-- Animated Image -->
