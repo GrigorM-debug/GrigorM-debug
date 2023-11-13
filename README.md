@@ -1,6 +1,6 @@
 <!-- Cinematic Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=0EC6F0&center=true&vCenter=true&lines=Hi+there!;It's+Grigor!;Welcome+to+My+GitHub!;I'm+Passionate+About+Programming." style="width:80%; max-width:400px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=0EC6F0&center=true&vCenter=true&lines=Hi+there! + https://www.google.com/search?client=firefox-b-d&sca_esv=581776001&sxsrf=AM9HkKlcG-qnjw-GLOBs0czIanTLC6xoMw:1699834370242&q=waving+hand&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjyv8K-2L-CAxWoVfEDHbyrC2kQ0pQJegQIDRAB&biw=1920&bih=919&dpr=1#imgrc=gzsgcWpe4BAoBM;It's+Grigor!;Welcome+to+My+GitHub!;I'm+Passionate+About+Programming." style="width:80%; max-width:400px;">
 </p>
 
 #
