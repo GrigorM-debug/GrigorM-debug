@@ -13,6 +13,7 @@ a healthy lifestyle.</p>
 </div>
 #
 
+<br><br>
 ## Connect with Me
 <a href="mailto:grigormarinov761@gmail.com">
   <img src="https://img.icons8.com/color/40/000000/email.png" alt="Email Icon" align="left" width="40px">
