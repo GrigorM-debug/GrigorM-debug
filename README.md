@@ -12,7 +12,7 @@
 Love to writing code and learning new features. Outside of the tech world, I'm involved in bodybuilding and 
 a healthy lifestyle.</p>
 </div>
-
+#
 
 ## Connect with Me
 <a href="mailto:grigormarinov761@gmail.com">
