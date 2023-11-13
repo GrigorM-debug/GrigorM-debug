@@ -13,9 +13,7 @@
 ✌️Enjoy to do programming and sharing knowledge.
 <br><br>
 ❤️ Love to writing code and learning new features. 
-<br><br> 
-💪 Outside of the tech world, I'm involved in bodybuilding and 
-a healthy lifestyle.</p>
+</p>
 </div>
 
 <br><br>
