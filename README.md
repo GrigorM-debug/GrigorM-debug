@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=0EC6F0&center=true&vCenter=true&lines=Hi+there!+👋;It's+Grigor!;Welcome+to+My+GitHub!;I'm+Passionate+About+Programming.">
 </p>
 
-#
 
 ## About Me
 <div align="center">
