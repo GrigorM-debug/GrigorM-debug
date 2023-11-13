@@ -10,6 +10,8 @@
   <p align="left">
 📖 I am currently studying Software Engineering at SoftUni with a passion to become a Back-end Developer.
 <br><br>
+✌️   Enjoy to do programming and sharing knowledge.
+<br><br>
 ❤️ Love to writing code and learning new features. 
 <br><br> 
 💪 Outside of the tech world, I'm involved in bodybuilding and 
