@@ -10,7 +10,7 @@ I am currently studying Software Engineering at SoftUni with a passion to become
 Love to writing code and learning new features. Outside of the tech world, I'm involved in bodybuilding and 
 a healthy lifestyle.
 
-<img src="https://raw.githubusercontent.com/alsiam/alsiam/main/assets/programmer.gif" align="rigth" width="500" height="500">
+<img src="https://raw.githubusercontent.com/alsiam/alsiam/main/assets/programmer.gif" align="rigth" width="500" height="300">
 
 ## Connect with Me
 <a href="mailto:grigormarinov761@gmail.com">
