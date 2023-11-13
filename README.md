@@ -34,7 +34,7 @@ a healthy lifestyle.
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg" alt="Twitter Icon" align="left" width="40px">
 </a>
 
-<br>
+>
 ## 🧰 Languages and Tools
 <img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
 <img align="left" alt=".NET" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
@@ -50,7 +50,7 @@ a healthy lifestyle.
 <img align="left" alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <img align="left" alt="Github" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" />
 
-<br>
+>
 ## 📊 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrigorM-debug&show_icons=true&theme=gruvbox)
 
