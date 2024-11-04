@@ -8,7 +8,7 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/alsiam/alsiam/main/assets/programmer.gif" alt="Your Image" width="350" height="250" align="right">
   <p align="left">
-📖 I am currently studying Software Engineering at SoftUni with a passion to become a Back-end Developer.
+📖 Just a small-town dreamer with big ambitions. I’m a Software Engineering student in SoftUni Software Engineering Academy, passionate about crafting code and building solutions. Every day, I’m working toward becoming a top-notch developer, committed to a successful and impactful career in tech. Let’s build the future, one line of code at a time!.
 <br><br>
 ✌️Enjoy to do programming and sharing knowledge.
 <br><br>
