@@ -15,11 +15,9 @@
 ❤️ Love to writing code and learning new features. 
 <br><br>
 🎯 Hobbies:
-    <ul>
       <li>🏋️ Lifting weights</li>
       <li>🧩 Solving Rubik's Cubes</li>
       <li>🎬 Watching Documentary and Historical movies</li>
-    </ul>
 </p>
 </div>
 
