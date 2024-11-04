@@ -8,13 +8,16 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/alsiam/alsiam/main/assets/programmer.gif" alt="Your Image" width="350" height="250" align="right">
   <p align="left">
-📖 Just a small-town dreamer with big ambitions. I’m a Software Engineering student in SoftUni Software Engineering Academy, passionate about crafting code and building solutions. Every day, I’m working toward becoming a top-notch developer, committed to a successful and impactful career in tech. Let’s build the future, one line of code at a time!.
+📖 Just a small-town dreamer with big ambitions. I’m a Software Engineering student at SoftUni Software Engineering Academy, passionate about crafting code and building solutions. Every day, I’m working toward becoming a top-notch developer, committed to a successful and impactful career in tech. Let’s build the future, one line of code at a time!.
 <br><br>
 ✌️Enjoy to do programming and sharing knowledge.
 <br><br>
 ❤️ Love to writing code and learning new features. 
 <br><br>
-💬 Ask me about anything on grigormarinov761@gmail.com
+🎯 Hobbies:
+  🏋️ Lifting weights
+  🧩 Solving Rubik's Cubes
+  🎬 Watching Documentary and Historical movies
 </p>
 </div>
 
